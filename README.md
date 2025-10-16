@@ -1,6 +1,6 @@
-<!doctype html>
+
 <body>
 <h1>How to ride an escooter safely.</h1>
 <h2>Drive on the road In the wrong lane.</h2>
 </body>
-</html>
+
